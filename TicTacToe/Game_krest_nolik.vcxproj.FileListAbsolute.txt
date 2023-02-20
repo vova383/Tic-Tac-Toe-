@@ -1,0 +1,3 @@
+D:\PROJECT C++\Game_krest_nolik\Release\Game_krest_nolik.vcxproj.CopyComplete
+D:\PROJECT C++\Game_krest_nolik\Release\Game_krest_nolik.exe
+D:\PROJECT C++\Game_krest_nolik\Release\raylib.dll
